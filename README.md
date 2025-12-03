@@ -26,3 +26,8 @@
 
                 ===Soal 6===
 <img width="928" height="983" alt="Tangkapan Layar 2025-12-03 pukul 22 08 36" src="https://github.com/user-attachments/assets/431edd7d-d760-4878-9093-6e4c8bc35c98" />
+
+
+
+                ===Soal 7===
+<img width="928" height="588" alt="Tangkapan Layar 2025-12-03 pukul 22 40 21" src="https://github.com/user-attachments/assets/e363c8aa-2ae8-447f-86b4-8c374e6027fa" />
