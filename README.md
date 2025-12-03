@@ -21,3 +21,8 @@
                 ===Soal 5===
 <img width="928" height="976" alt="Tangkapan Layar 2025-12-03 pukul 22 04 17" src="https://github.com/user-attachments/assets/a5e6fb10-3dd7-4661-a078-94bb81fb6ffa" />
 <img width="928" height="402" alt="Tangkapan Layar 2025-12-03 pukul 22 04 35" src="https://github.com/user-attachments/assets/24e96add-7c8b-4abe-869b-ec8a0e660be1" />
+
+
+
+                ===Soal 6===
+<img width="928" height="983" alt="Tangkapan Layar 2025-12-03 pukul 22 08 36" src="https://github.com/user-attachments/assets/431edd7d-d760-4878-9093-6e4c8bc35c98" />
