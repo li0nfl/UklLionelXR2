@@ -18,7 +18,8 @@ public class UklNomer4 {
 
         for (int i = 0; i < array.length; i++){
             for (int j = 0; j < array.length; j++){
-                if (array[i] == array[j] && i != j && !duplikatList.contains(array[i])) {                    duplikatList.add(array[i]);
+                if (array[i] == array[j] && i != j && !duplikatList.contains(array[i])) {                    
+                    duplikatList.add(array[i]);
                     break;
                 }
             }
